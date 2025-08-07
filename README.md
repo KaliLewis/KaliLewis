@@ -1,24 +1,23 @@
 <h1 align="center">Hi, I'm Lewis Kiganjo</h1>
 <h3 align="center">A Software Developer crafting fast and secure platforms that scale seamlessly and have real-world impact.</h3>
 
-- I’m currently working on [Echo - A Whistleblowing Platform](echo.ethicacompliance.co.ke)
+- I’m currently working on [Echo – A Whistleblowing Platform](https://echo.ethicacompliance.co.ke)
 
 - I’m currently learning **Metasploit Penetration Testing**
 
-- I’m looking to collaborate on [Mazmatic - A POS, HRM, CRM System](mazmatic.codekona.com)
-
-- I’m looking for help with acquiring hardware for [Farmlens - GIS, AI & IoT](farmlens.codekona.com)
-
-- All of my projects are available at [kiganjo.codekona.com](kiganjo.codekona.com)
-
-- I regularly write articles on [kiganjo.codekona.com/blogs](kiganjo.codekona.com/blogs)
-
-- Ask me about **Linux, Apache, MySQL, PHP, Laravel, Tailwind, Alpine JS, Chart JS, Leaflet Map JS, Flutter, Firebase, AWS, GCP, Azure, Direct Admin, C Panel, Arduino, IoT, Machine Learning, Python, Artificial Intelligence, Decentralized Internet etc.**
-
-- How to reach me **lewi@codekona.com**
-
-- Know about my experiences [kiganjo.codekona.com/about](kiganjo.codekona.com/about)
-
+- I’m looking to collaborate on [Mazmatic – A POS, HRM & CRM System](https://mazmatic.codekona.com)
+  
+- I’m looking for help with acquiring hardware for [Farmlens – GIS, AI & IoT](https://farmlens.codekona.com)
+  
+- All of my projects are available at [kiganjo.codekona.com](https://kiganjo.codekona.com)
+  
+- I regularly write articles on [kiganjo.codekona.com/blogs](https://kiganjo.codekona.com/blogs)
+  
+- Ask me about **Linux, Apache, MySQL, PHP, Laravel, Tailwind, Alpine JS, Chart JS, Leaflet Map JS, Flutter, Firebase, AWS, GCP, Azure, DirectAdmin, cPanel, Arduino, IoT, Machine Learning, Python, Artificial Intelligence, Decentralized Internet**, etc.
+  
+- How to reach me: **[lewi@codekona.com](mailto:lewi@codekona.com)**
+  
+- Know about my experiences on [kiganjo.codekona.com/about](https://kiganjo.codekona.com/about)
 
 
 
