@@ -13,7 +13,7 @@
 
 - I regularly write articles on [kiganjo.codekona.com/blogs](kiganjo.codekona.com/blogs)
 
-- Ask me about **Linux, Apache, MySQL, PHP, Laravel, Tailwind, Alpine JS, Chart JS, Leaflet Map JS, Flutter, Firebase**
+- Ask me about **Linux, Apache, MySQL, PHP, Laravel, Tailwind, Alpine JS, Chart JS, Leaflet Map JS, Flutter, Firebase, AWS, GCP, Azure, Direct Admin, C Panel**
 
 - How to reach me **lewi@codekona.com**
 
