@@ -19,7 +19,7 @@
 
 - Know about my experiences [kiganjo.codekona.com/about](kiganjo.codekona.com/about)
 
-- Fun fact **I'm not funny**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
